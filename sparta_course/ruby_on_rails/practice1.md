@@ -126,5 +126,7 @@ inputタグ内の`name="task[name]"`が重要で、`task`が`require(:task)`、`
 [![Image from Gyazo](https://i.gyazo.com/854f1d8e36783deb8bdef0416d3511d2.png)](https://gyazo.com/854f1d8e36783deb8bdef0416d3511d2)
 
 
+<br>
 
+よろしくお願いします
 
